@@ -93,7 +93,7 @@ class _MainScreenState extends State<MainScreen> with WidgetsBindingObserver{
               ),
             Scaffold(
               appBar: AppBar(
-                title: const Text("Text Recognition Sample"),
+                title: const Text("Text Recognition Samplee"),
               ),
               backgroundColor: _isPermissionGranted ? Colors.transparent : null,
               body: _isPermissionGranted
